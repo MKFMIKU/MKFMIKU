@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Research-GoogleScholar-888888)](https://scholar.google.com/citations?user=e_nu_TIAAAAJ&hl=en)
 - 🔭  I’m currently working on Image/Video Enhancement via Deep Learning
 - 📫  Email me at: kangfumei@link.cuhk.edu.cn
-- ⚡  My new work: [Disentangle Perceptual Learning through Online Contrastive Learning
-](https://arxiv.org/abs/2006.13511)
+- ⚡  My new work: [AttaNet: Attention-Augmented Network for Fast and Accurate Scene Parsing](https://arxiv.org/abs/2103.05930)
 
 ## Education
 
