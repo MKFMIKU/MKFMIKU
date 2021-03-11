@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Connect-Linkedin-0077b5)](https://www.linkedin.com/in/mkfmiku/)
 [![](https://img.shields.io/badge/Research-GoogleScholar-888888)](https://scholar.google.com/citations?user=e_nu_TIAAAAJ&hl=en)
 - 🔭  I’m currently working on Image/Video Enhancement via Deep Learning
-- 🤔  I’m looking for PhD Position at 2021 Fall
 - 📫  Email me at: kangfumei@link.cuhk.edu.cn
 - ⚡  My new work: [Disentangle Perceptual Learning through Online Contrastive Learning
 ](https://arxiv.org/abs/2006.13511)
