@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 ## Education
 
-- M.Phil student at The Chinese University of Hong Kong,Shenzhen (09/2019 - present)
+- Ph.D. student at Johns Hopkins University (09/2021 - Now)
+
+- M.Phil student at The Chinese University of Hong Kong,Shenzhen (09/2019 - 06/2021)
 
 - Bachelor student at Jiangxi Normal University
 
@@ -34,6 +36,6 @@ Here are some ideas to get you started:
 
 ||||
 |:--|:--|:--|
-|Damo Academy, Alibaba-inc| Research Intern|06/2020 - present|
+|Damo Academy, Alibaba-inc| Research Intern|06/2020 - 10/2020|
 |Kuaishou Technology| Image/Video Algorithm Engineer Intern |08/2018 - 09/2019|
 |JD.COM|Front Engineer Intern|09/2018 - 02/2019|
