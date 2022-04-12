@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Connect-Linkedin-0077b5)](https://www.linkedin.com/in/mkfmiku/)
 [![](https://img.shields.io/badge/Research-GoogleScholar-888888)](https://scholar.google.com/citations?user=e_nu_TIAAAAJ&hl=en)
 - 🔭  I’m currently working on Image/Video Enhancement via Deep Learning
-- 📫  Email me at: kangfumei@link.cuhk.edu.cn
-- ⚡  My new work: [AttaNet: Attention-Augmented Network for Fast and Accurate Scene Parsing](https://arxiv.org/abs/2103.05930)
+- 📫  Email me at: mikumkf@gmail.com
 
 ## Education
 
@@ -36,6 +35,7 @@ Here are some ideas to get you started:
 
 ||||
 |:--|:--|:--|
+|Adobe |Incoming Research Intern|05/2021 - |
 |Damo Academy, Alibaba-inc| Research Intern|06/2020 - 10/2020|
 |Kuaishou Technology| Image/Video Algorithm Engineer Intern |08/2018 - 09/2019|
-|JD.COM|Front Engineer Intern|09/2018 - 02/2019|
+|JD.COM | Front Engineer Intern|09/2018 - 02/2019|
