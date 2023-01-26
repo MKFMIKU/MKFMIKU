@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## I'm Kangfu MEI -- 梅-康夫
 [![](https://img.shields.io/badge/Connect-Linkedin-0077b5)](https://www.linkedin.com/in/mkfmiku/)
 [![](https://img.shields.io/badge/Research-GoogleScholar-888888)](https://scholar.google.com/citations?user=e_nu_TIAAAAJ&hl=en)
-- 🔭  I’m currently working on Image/Video Enhancement via Deep Learning
+- 🔭  I’m currently working on Generative Models
 - 📫  Email me at: mikumkf@gmail.com
 
 ## Education
