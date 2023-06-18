@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 ||||
 |:--|:--|:--|
-|Adobe| Incoming Research Intern | 05/2022 - |
+|Google Research | Student Research | 06/2023 - |
+|Adobe| Research Intern | 05/2022 - 11/2022 |
 |Damo Academy, Alibaba-inc | Research Intern | 06/2020 - 10/2020|
 |Kuaishou Technology | Image/Video Algorithm Engineer Intern | 08/2018 - 09/2019|
 |JD.COM | Front Engineer Intern | 09/2018 - 02/2019|
